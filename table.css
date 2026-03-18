@@ -1,0 +1,16 @@
+/*table,th,td{border: 2px solid red;
+height: 100px;width:500px ;}*/
+td{text-align:center ; 
+color: black;}
+th,td{padding: 10px;
+vertical-align: middle;
+border-bottom:2px solid brown; border-style: groove;}
+td:hover{color:red;}
+
+a:link, a:visited{color: black;
+background-color: greenyellow;
+padding: 15px 2opx;}
+a:hover{color: red;}
+tr:nth-child(even) {background-color: aquamarine;}
+th{background-color: red;}
+div.maina{overflow-x: auto;}
